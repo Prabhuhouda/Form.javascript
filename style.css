@@ -1,0 +1,26 @@
+*{
+    padding-top: 6px;
+    padding-left: 6px;
+    text-align: center;
+    background-color:rgb(50, 205, 248)
+  
+    
+
+
+}
+.body{
+    color: rgb(255, 85, 0);
+    height: 18vmin;
+    width: 20vmin;
+    background-color: rgb(227, 36, 36);
+}
+.form{
+    color: rgb(194, 23, 23);
+    padding-left: 20px;
+
+}
+
+.h2{
+    text-align:justify;
+    text-emphasis-color: blue;
+}
